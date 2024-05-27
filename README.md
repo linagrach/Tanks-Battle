@@ -19,7 +19,7 @@ _____
 
 + Победа первого игрока
 
-![green wins](https://github.com/linagrach/Tanks-Battle/blob/master/image%2065.png, "Green Wins!")
+![green wins](https://github.com/linagrach/Tanks-Battle/blob/ce08b6dc721953f0a07cb8f7fc7dfe7ba94d6c1c/image%2065.png, "Green Wins!")
 
 + Победа второго игрока
 
