@@ -23,7 +23,7 @@ _____
 
 + Победа второго игрока
 
-![yellow_wins](https://github.com/linagrach/Tanks-Battle/blob/master/image%2064.jpg, "Yellow wins!")
+![yellow_wins](https://raw.githubusercontent.com/linagrach/Tanks-Battle/master/image%2064.jpg, "Yellow wins!")
 
 _____
 ## 3. Технологии/фишки/уникальные составляющие, использованные в проекте
