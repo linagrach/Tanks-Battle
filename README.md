@@ -3,27 +3,28 @@ _____
 ## 1. Описание проекта
 Проект "Tanks Battle" представляет собой аналог игры "Battle City" для соревнования между двумя игроками, разработанную с использованием среды программирования Microsoft Visual Studio на языке C++, с применением графической библиотеки SFML (Simple and Fast Multimedia Library). Цель игры - попасть выстрелом в танк противника, набирая этим очки, и набрать очков больше, чем оппонент, до достижения заданного числа очков.
 
-![icon](https://github.com/linagrach/Tanks-Battle/blob/master/image%20130.png, "Tanks Battle!")
+![icon](https://github.com/linagrach/Tanks-Battle/assets/169918897/47914fc3-8667-49cb-aed8-6badc25eeba6)
 
 _____
 ## 2. Демонстрация
 ### Изображения состояний игры:
 + Меню
 
-![menu](https://github.com/linagrach/Tanks-Battle/blob/master/image%20130.png, "Menu")
+![menu](https://github.com/linagrach/Tanks-Battle/assets/169918897/47914fc3-8667-49cb-aed8-6badc25eeba6)
+![image 62](https://github.com/linagrach/Tanks-Battle/assets/169918897/5deba313-3f97-4cfc-986f-fce438b3a310)
 
 + Игра
 
-![game1](https://github.com/linagrach/Tanks-Battle/blob/master/image%2062.png, "Gameplay")
-![game2](https://github.com/linagrach/Tanks-Battle/blob/master/image%2067.png, "Gameplay")
+![game1](https://github.com/linagrach/Tanks-Battle/assets/169918897/5deba313-3f97-4cfc-986f-fce438b3a310)
+![game2](https://github.com/linagrach/Tanks-Battle/assets/169918897/6bd2d512-6a1b-4440-861d-5ef73ccf18f3)
 
 + Победа первого игрока
-
-![green wins](https://github.com/linagrach/Tanks-Battle/blob/ce08b6dc721953f0a07cb8f7fc7dfe7ba94d6c1c/image%2065.png, "Green Wins!")
+  
+![green wins](https://github.com/linagrach/Tanks-Battle/assets/169918897/09447f67-eb23-4f86-9bb9-2b29168782b8)
 
 + Победа второго игрока
-
-![yellow_wins](https://raw.githubusercontent.com/linagrach/Tanks-Battle/master/image%2064.jpg, "Yellow wins!")
+  
+![yellow_wins](https://github.com/linagrach/Tanks-Battle/assets/169918897/4fb70f2c-3f29-4dda-9a3d-369caef12f80)
 
 _____
 ## 3. Технологии/фишки/уникальные составляющие, использованные в проекте
