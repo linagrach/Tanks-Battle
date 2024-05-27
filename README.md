@@ -32,9 +32,7 @@ _____
 
 ![gif](https://github.com/linagrach/Tanks-Battle/assets/169918897/4228ed30-ffab-48d8-bd0e-2ff04961e52b)
 
-+ Видео версия (нажмите на картинку :arrow_heading_down:)
-
-[![video](https://github.com/linagrach/Tanks-Battle/assets/169918897/ff7dc3b2-cf4d-4bb8-b419-eeb1ee82395f)](https://youtu.be/XKm2SkSlByg?si=bIBgLgb9Ink2uFib)
++ Видео версия (нажмите на ссылку:) https://youtu.be/XKm2SkSlByg?si=bIBgLgb9Ink2uFib
 _____
 ## 3. Технологии/фишки/уникальные составляющие, использованные в проекте
 
